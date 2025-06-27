@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/consulta-casilla.js": {
+      "maxDuration": 30
+    }
+  }
+}
