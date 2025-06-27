@@ -1,0 +1,14 @@
+{
+  "name": "consulta-casilla-judicial",
+  "version": "1.0.0",
+  "description": "API proxy para consultar casilla judicial",
+  "main": "api/consulta-casilla.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
